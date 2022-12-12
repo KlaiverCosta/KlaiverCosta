@@ -15,6 +15,7 @@
   <img align="center" alt="Klaiver-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Klaiver-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Klaiver-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Klaiver-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="right" alt="Klaiver-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 </div>
   
