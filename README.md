@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/klaiver-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ##
- 
-  ![snake animation](https://github.com/KlaiverCosta/KlaiverCosta/blob/output/github-contribution-grid-snake2.svg)
+  
+  ![Snake animation](https://github.com/KlaiverCosta/KlaiverCosta/blob/output/github-contribution-grid-snake.svg)
  
 </div>
