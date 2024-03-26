@@ -2,7 +2,7 @@
  
 ## Apaixonado por tecnologia e inovação. 💻
 
-#### Atuo como Tech Lead em projetos de Infraestrutura de Dados Espaciais, utilizando metodologias ágeis, minha atuação consiste em implementar novas funcionalidades, realizar manutenções de código, revisar códigos, auxiliar, orientar e treinar novos membros do time de desenvolvimento, refinar atividades, remover riscos e impedimentos além de apoiar o Product Owner com a prioridade das demandas para que os prazos sejam cumpridos. As linguagens, tecnologias e métodos de trabalho destes projetos são:
+#### Atuo como Tech Lead em projetos de Infraestrutura de Dados Espaciais, utilizando metodologias ágeis, minha atuação consiste em desenvolver novas funcionalidades, realizar manutenções nos códigos, revisar códigos, auxiliar, orientar e treinar novos membros do time de desenvolvimento, refinar atividades, remover riscos e impedimentos além de apoiar o Product Owner com a prioridade das demandas para que os prazos sejam cumpridos. As linguagens, tecnologias e métodos de trabalho destes projetos são:
 - Python.
 - Postgres.
 - React.
